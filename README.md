@@ -1,5 +1,5 @@
 # Number_Guessing_Game
-<br>&bull This is a very simple game<br>
+<br>This is a very simple game<br>
 <br>
 <b> How to play<br>
 1) you have to guess a number btw the given range.<br>
